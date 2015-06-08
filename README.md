@@ -1,4 +1,2 @@
-appengine-skeleton
+primera version traductor
 =============================
-
-This is a generated application from the appengine-skeleton archetype.
